@@ -1,10 +1,22 @@
-# 🍽️ Guía de Restaurantes
+# 🍽️ Restaurantes y Gastronomía
 
-### 🥩 Restaurante Todocarne (Coslada)
-* **Recomendado por:** Paula (vía Juan N.)
-* **Fecha del correo:** 05/01/2026
-* **Categoría:** Gastronomía / Parrilla
-* **Comentario:** Excelente relación calidad-precio. Un sitio muy recomendado para los amantes de la buena carne en la zona de Coslada.
+Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
+
+### 🥘 La Arrocería de María
+* **Recomendado por:** Beatriz (vía Juan N.)
+* **Fecha:** 09/01/2026
+* **Comentario:** "Especialistas en arroces con una relación calidad-precio muy razonable."
 
 ---
+
+### 🥩 Todocarne (Coslada)
+* **Recomendado por:** Paula (vía Juan N.)
+* **Fecha:** 09/01/2026
+* **Comentario:** "Ideal para los amantes de la carne. Un sitio de confianza con buena atención."
+
+---
+
+### 🍴 [Nombre del Restaurante]
+* **Recomendado por:** * **Fecha:** * **Comentario:** ---
+
 [⬅️ Volver al Inicio](./)
