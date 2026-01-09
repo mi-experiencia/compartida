@@ -14,7 +14,7 @@ description: Explorando ideas, conectando personas
 * [🏛️ Museos y Exposiciones](./museos)
 * [🍽️ Restaurantes](./restaurantes)
 * [🎙️ Podcasts](./podcast)
-
+* [📚 Libros y Lecturas](./libros)
 <br><br>
 
 ---
