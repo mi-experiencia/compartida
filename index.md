@@ -5,9 +5,9 @@
 ### 🌟 Recomendaciones de la Red
 * [🎬 Cine y Series](./cine)
 * [🏛️ Museos y Exposiciones](./museos)
-* [🍽️ Restaurantes](./servicios)
+* [🍽️ Restaurantes](./restaurantes)
+* [🎙️ Podcasts](./podcast)
 
-<br><br>
 <br><br>
 
 ---
