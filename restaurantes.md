@@ -1,4 +1,3 @@
-
 # 🍽️ Restaurantes y Gastronomía
 
 Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
@@ -18,3 +17,10 @@ Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
 ---
 
 [⬅️ Volver al Inicio](./)
+
+---
+### 🛠️ ZONA DE EDICIÓN (Plantilla)
+*Copia y pega esto arriba para añadir uno nuevo:*
+
+### 🍴 [Nombre]
+* **Recomendado por:** * **Fecha:** * **Comentario:** ---
