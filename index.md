@@ -1,6 +1,10 @@
 # 🤝 INTERCAMBIO DE EXPERIENCIAS
 
+### *Explorando ideas, conectando personas*
+
 [Nuestra Web Colaborativa](./tu-experiencia)
+
+---
 
 ### 🌟 Recomendaciones por categorías
 * [🎬 Cine y Series](./cine)
