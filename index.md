@@ -1,8 +1,8 @@
-# Mi Web de Experiencias.
+# 🤝 INTERCAMBIO DE EXPERIENCIAS
 
-[Ver mi Experiencia Profesional](./tu-experiencia)
+[Nuestra Web Colaborativa](./tu-experiencia)
 
-### 🌟 Recomendaciones de la Red
+### 🌟 Recomendaciones por categorías
 * [🎬 Cine y Series](./cine)
 * [🏛️ Museos y Exposiciones](./museos)
 * [🍽️ Restaurantes](./restaurantes)
@@ -12,5 +12,5 @@
 
 ---
 <p style="text-align: center; color: #777; font-size: 0.8em;">
-  CREADO POR NOVELLA
+  UN ESPACIO COMPARTIDO · CREADO POR NOVELLA
 </p>
