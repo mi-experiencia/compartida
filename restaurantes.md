@@ -16,7 +16,4 @@ Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
 
 ---
 
-### 🍴 [Nombre del Restaurante]
-* **Recomendado por:** * **Fecha:** * **Comentario:** ---
-
 [⬅️ Volver al Inicio](./)
