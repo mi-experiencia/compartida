@@ -13,7 +13,7 @@ Aquí anotamos las películas y series que nos han hecho vibrar.
 
 ---
 ```### 🛠️ ZONA DE EDICIÓN (Plantilla)
-*Copia y pega esto arriba para añadir una nueva:*
+```*Copia y pega esto arriba para añadir una nueva:*
 
-### 🎥 [Título]
-* **Recomendado por:** * **Fecha:** * **Comentario:** ---
+```### 🎥 [Título]
+```**Recomendado por:** * **Fecha:** * **Comentario:** ---
