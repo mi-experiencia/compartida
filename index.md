@@ -1,8 +1,11 @@
-# 🤝 INTERCAMBIO DE EXPERIENCIAS
+---
+title: INTERCAMBIO DE EXPERIENCIAS
+description: Explorando ideas, conectando personas
+---
 
-### *Explorando ideas, conectando personas*
+# Nuestra Web Colaborativa
 
-[Nuestra Web Colaborativa](./tu-experiencia)
+[Ver Trayectoria Compartida](./tu-experiencia)
 
 ---
 
