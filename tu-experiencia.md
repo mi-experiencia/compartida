@@ -10,7 +10,7 @@ Para que la recomendación sea útil para todos, intenta enviar:
 * **Tu nombre:** (O si prefieres que sea anónimo).
 
 ### 📧 ¿A dónde lo envío?
-Puedes envia tu recomendación por mail a
+Puedes envia tu recomendación por mail:
 * **tuexperienciacompartida@gmail.com**
 
 ---
