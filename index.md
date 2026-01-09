@@ -1,5 +1,12 @@
 # Mi Web de Experiencias.
+
 [Ver mi Experiencia Profesional](./tu-experiencia)
+
+### 🌟 Recomendaciones de la Red
+* [🎬 Cine y Series](./cine)
+* [🏛️ Museos y Exposiciones](./museos)
+* [🍽️ Servicios y Restaurantes](./servicios)
+
 <br><br>
 <br><br>
 
