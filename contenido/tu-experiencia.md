@@ -16,4 +16,4 @@ Puedes envia tu recomendación por mail:
 ---
 > *Explorando ideas, conectando personas.*
 
-[⬅️ Volver al inicio](./)
+[⬅️ Volver al inicio](../)
