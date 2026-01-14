@@ -6,4 +6,4 @@
 
 ### 🎧 [Otro Podcast]
 * **Recomendado por:** * **Fecha:** * **Comentario:** ---
-[⬅️ Volver al Inicio](./)
+[⬅️ Volver al Inicio](../)
