@@ -5,7 +5,7 @@ description: Explorando ideas, conectando personas
 
 # Nuestra Web Colaborativa
 
-[Ayudanos compariendo tus mensajes](./tu-experiencia)
+[Ayudanos compariendo tus mensajes](./contenido/tu-experiencia)
 
 ---
 
