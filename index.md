@@ -10,11 +10,11 @@ description: Explorando ideas, conectando personas
 ---
 
 ### 🌟 Recomendaciones por categorías
-* [🎬 Cine y Series](./cine)
-* [🏛️ Museos y Exposiciones](./museos)
-* [🍽️ Restaurantes](./restaurantes)
-* [🎙️ Podcasts](./podcast)
-* [📚 Libros y Lecturas](./libros)
+* [🎬 Cine y Series](./contenido/cine)
+* [🏛️ Museos y Exposiciones](./contenido/museos)
+* [🍽️ Restaurantes](./contenido/restaurantes)
+* [🎙️ Podcasts](./contenido/podcast)
+* [📚 Libros y Lecturas](./contenido/libros)
 <br><br>
 
 ---
