@@ -9,7 +9,7 @@ Aquí anotamos las películas y series que nos han hecho vibrar.
 
 ---
 
-[⬅️ Volver al Inicio](./)
+[⬅️ Volver al Inicio](../)
 
 ---
 ### 🛠️ ZONA DE EDICIÓN (Plantilla)
