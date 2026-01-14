@@ -10,4 +10,4 @@ Recomendaciones culturales y experiencias inmersivas.
 * **Reseña:** "Un museo muy divertido y diferente en Madrid. Es una experiencia inmersiva que te va a encantar, ideal para ir con amigos o familia."
 
 ---
-[⬅️ Volver al Inicio](./)
+[⬅️ Volver al Inicio](../)
