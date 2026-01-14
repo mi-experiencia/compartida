@@ -1,5 +1,6 @@
 # compartida
-Comparte tu experiencia.  Películas, series, libros, museos, bares, restaurantes y mucho más 
+Comparte tu experiencia.  Películas, series, libros, museos, bares, restaurantes y mucho más
+
 MEMORIA DE PROYECTO: Automatización Gmail a GitHub 
 
 
