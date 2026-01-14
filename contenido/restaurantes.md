@@ -16,7 +16,7 @@ Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
 
 ---
 
-[⬅️ Volver al Inicio](./)
+[⬅️ Volver al Inicio](../)
 
 ---
 ### 🛠️ ZONA DE EDICIÓN (Plantilla)
