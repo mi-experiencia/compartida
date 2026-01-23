@@ -1,6 +1,9 @@
+
 # 🍽️ Restaurantes y Gastronomía
 
 Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
+
+---
 
 ### 🥘 La Arrocería de María
 * **Recomendado por:** Beatriz (vía Juan N.)
@@ -16,4 +19,4 @@ Aquí vamos anotando los sitios donde se come bien y merece la pena volver.
 
 ---
 
-[⬅️ Volver al Inicio](../)
+[⬅️ Volver al Inicio](../index.md)
