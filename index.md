@@ -15,6 +15,7 @@ description: Explorando ideas, conectando personas
 * [🍽️ Restaurantes](./contenido/restaurantes)
 * [🎙️ Podcasts](./contenido/podcast)
 * [📚 Libros y Lecturas](./contenido/libros)
+* [🛠️ Directorio de Servicios](./servicios.md)
 <br><br>
 
 ---
