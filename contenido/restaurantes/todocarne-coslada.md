@@ -11,4 +11,4 @@ Es un sitio ideal para los amantes de la carne a la parrilla. Paula destaca que 
 * **Enlace a Google Maps:** [Toca aquí para ver el mapa](https://www.google.com/maps?q=Restaurante+Parrilla+Todocarne+Coslada)
 
 ---
-[⬅️ Volver a Restaurantes](../README.md)
+[⬅️ Volver a Restaurantes](./README.md)
