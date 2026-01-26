@@ -1,6 +1,6 @@
 # 🚀 Mi Experiencia Compartida (Fase Beta)
 
-¡Bienvenido/a! Este es nuestro espacio compartido para centralizar **recomendaciones de confianza**. Aquí no hay algoritmos, solo experiencias reales de personas que conocemos.
+¡Bienvenido/a! Este es nuestro espacio compartido para centralizar **recomendaciones de confianza**, basadas en experiencias reales de personas que conocemos.
 
 ---
 
