@@ -1,24 +1,29 @@
-# 🍴 La Arrocería de María (Madrid)
+# 🍴 Restaurante Parrilla Todocarne (Coslada)
 
-**Categoría:** #restaurante #madrid #arrocería #mediterráneo #arturo-soria
-**Recomendado por:** Beatriz
+**Categoría:** #restaurante #madrid #coslada #parrilla #carnes #brasas
+**Recomendado por:** Paula
 **Fecha de registro:** 26/01/2026
 
 ---
 
 ### ℹ️ Información del Sitio
-Situado en la zona de Arturo Soria, es un restaurante especializado en cocina mediterránea que destaca por traer los sabores del Levante a la capital. El local es moderno, luminoso y muy adecuado para comidas de grupo o familiares.
+Situado en Coslada, es un restaurante especializado en carnes a la parrilla y cocina castellana. Destaca por su ambiente rústico y acogedor, ideal para quienes buscan raciones generosas y producto de calidad cocinado al estilo tradicional.
 
-* **Especialidades:** Arroz a banda, paella ciega y alcachofas confitadas.
-* **Ubicación:** Calle Arturo Soria, 2, 28027 Madrid.
-* **Precio:** #medio (Aproximadamente 25-35€ por persona).
+* **Especialidades:** Solomillo troceado con patatas panaderas, carnes a la piedra (cebón, cerdo extremeño) y su famoso costillar de la casa.
+* **Ubicación:** Calle de Honduras, 23, 28822 Coslada, Madrid.
+* **Precio:** #medio (Menús especiales entre 40€-55€; también disponen de menú del día).
 
 ---
 
 ### ✍️ Reseña
 **Resumen de la experiencia:**
-Beatriz lo define como una **buena recomendación** en Madrid. Es un sitio de confianza donde destaca especialmente la calidad de sus arroces y una relación calidad-precio muy equilibrada para la zona en la que se encuentra.
+Según la recomendación de Paula, es un lugar con una **buena relación calidad-precio**. Es un sitio de referencia en la zona para disfrutar de una buena parrillada en un ambiente familiar y profesional.
 
+> **Nota:** Muy recomendado el solomillo para compartir y sus tablas de ibéricos como entrante.
+
+---
+
+[⬅️ Volver a Restaurantes](./README.md)
 > **Nota:** Ideal para quienes buscan un "arrocito" en un ambiente agradable y con un servicio familiar sin salir de la ciudad.
 
 ---
