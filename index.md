@@ -1,6 +1,6 @@
 # 🚀 Mi Experiencia Compartida (Fase Beta)
 
-¡Bienvenido/a! Este es nuestro espacio compartido para centralizar **recomendaciones de confianza**, basadas en experiencias reales de personas que conocemos.
+Este es un **proyecto personal** que nace para que nuestro círculo más cercano pueda compartir y consultar recomendaciones reales. Aquí no encontrarás reseñas de extraños, sino la experiencia directa de **personas próximas, que nos conocemos y en las que confiamos**.
 
 ---
 
@@ -18,12 +18,9 @@ Toca en cada sección para ver qué hemos recopilado hasta ahora:
 Si has descubierto algo increíble últimamente, ¡no te lo guardes! 
 
 1. **Envía un email** a: [miexperienciacompartida@gmail.com](mailto:miexperienciacompartida@gmail.com)
-2. En el **Asunto**, pon la categoría (ej: *Restaurante* o *Cine*).
+2. En el **Asunto**, pon la categoría. **Estamos abiertos a todo**: si no encaja en las actuales, ¡crearemos una nueva! (Ejemplos: *Libros, Viajes, Apps útiles, Gadgets, Recetas, Salud...*).
 3. En el **Mensaje**, cuéntame qué es y por qué lo recomiendas.
-  
- **Por WhatsApp**: Como probablemente ya conoces mi teléfono, también puedes enviarme la recomendación por ahí.
-
-*Pronto aparecerá publicado aquí para que todos podamos consultarlo.*
+4. **Por WhatsApp**: Como probablemente ya conoces mi teléfono, también puedes enviarme la recomendación por ahí.
 
 ---
 _Este proyecto está en construcción. Si ves que algo falla o tienes una idea para mejorarlo, dímelo._
