@@ -3,6 +3,13 @@
 Aquí encontrarás los sitios que más nos han gustado. 
 
 ### Listado:
+### 🇪🇸 Madrid
+* [La Arrocería de María](./la-arroceria-de-maria.md)
+* [Restaurante Todocarne](./todocarne-coslada.md)
+* [Casa Ezequiel](./casa-ezequiel-madrid.md)
+
+### 🇵🇹 Portugal
+* [Casa Benito (Chaves)](./casa-benito-chaves.md)
 * [La Arrocería de María](./la-arroceria-de-maria.md)
 * [Todocarne (Coslada)](./todocarne-coslada.md)
 * [Casa Benito (Chaves)](./casa-benito-chaves.md)
