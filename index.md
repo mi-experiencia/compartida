@@ -20,6 +20,8 @@ Si has descubierto algo increíble últimamente, ¡no te lo guardes!
 1. **Envía un email** a: [miexperienciacompartida@gmail.com](mailto:miexperienciacompartida@gmail.com)
 2. En el **Asunto**, pon la categoría (ej: *Restaurante* o *Cine*).
 3. En el **Mensaje**, cuéntame qué es y por qué lo recomiendas.
+  
+ **Por WhatsApp**: Como probablemente ya conoces mi teléfono, también puedes enviarme la recomendación por ahí.
 
 *Pronto aparecerá publicado aquí para que todos podamos consultarlo.*
 
